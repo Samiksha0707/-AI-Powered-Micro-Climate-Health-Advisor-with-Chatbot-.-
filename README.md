@@ -1,3 +1,7 @@
+## Project Status: Under Development
+This is a self-initiated  project in Data Science and AI/ML focused on analyzing environmental and air quality data to generate health insights.
+The current version includes initial backend structure, dataset integration, and machine learning model development. Further improvements,API integration, and full system deployment are in progress.
+
 # -AI-Powered-Micro-Climate-Health-Advisor-with-Chatbot-.-
 
 "Self-initiated project to provide personalized health insight using AI and ML ."
